@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a34e3f8-950a-4f3b-8348-cfd06f7b203d" name="Default Changelist" comment="" />
+    <list default="true" id="2a34e3f8-950a-4f3b-8348-cfd06f7b203d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/京东.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/处女座.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/复习/1.HTML练习/DAY1/3.img标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/复习/1.HTML练习/DAY1/4.a标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/复习/1.HTML练习/DAY1/4.a标签跳转.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/复习/1.HTML练习/DAY1/5.ul li无序列表.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/复习/1.HTML练习/DAY1/6.ol li有序列表.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/复习/1.HTML练习/DAY1/7.p标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/复习/1.HTML练习/DAY1/8.input标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/复习/1.HTML练习/DAY1/9.button标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY1/CSS/1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY1/CSS/2.选择器.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY1/CSS/3.选择器2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY1/HTML/1.css.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY1/HTML/2.选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY1/HTML/3.选择器2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML练习/DAY1/1.hello_world.html" beforeDir="false" afterPath="$PROJECT_DIR$/复习/1.HTML练习/DAY1/1.hello_world.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML练习/DAY1/2.div.html" beforeDir="false" afterPath="$PROJECT_DIR$/复习/1.HTML练习/DAY1/2.div标签.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,10 +32,17 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Y93dRXdjKHgABIv2F9ICZoF5r7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,12 +51,26 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="CSS&#10;HTML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LinH\IdeaProjects\untitled\img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LinH\IdeaProjects\untitled\复习\2.CSS\DAY1\HTML" />
+      <recent name="C:\Users\LinH\IdeaProjects\untitled\复习" />
       <recent name="C:\Users\LinH\IdeaProjects\untitled\HTML练习\DAY1" />
     </key>
   </component>
@@ -42,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582341069471</updated>
-      <workItem from="1582341070859" duration="1228000" />
+      <workItem from="1582341070859" duration="19346000" />
     </task>
     <servers />
   </component>
@@ -50,6 +92,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="452" y="42" key="CommitChangelistDialog2" timestamp="1582343252715">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="42" key="CommitChangelistDialog2/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582343252715" />
     <state x="161" y="220" key="new project wizard" timestamp="1582341145203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

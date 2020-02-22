@@ -1,0 +1,18 @@
+p {
+    background: green;
+}
+
+/* 后代选择器 */
+.div1 p {
+    background: red;
+}
+
+/* 后代选择器 越精准 优先级越高*/
+.div1 .div2 p {
+    background: yellow;
+}
+
+/* 群组选择器 */
+.p1, .p2 {
+    background: aqua;
+}

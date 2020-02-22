@@ -1,27 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a34e3f8-950a-4f3b-8348-cfd06f7b203d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/京东.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/处女座.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/复习/1.HTML练习/DAY1/3.img标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/复习/1.HTML练习/DAY1/4.a标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/复习/1.HTML练习/DAY1/4.a标签跳转.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/复习/1.HTML练习/DAY1/5.ul li无序列表.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/复习/1.HTML练习/DAY1/6.ol li有序列表.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/复习/1.HTML练习/DAY1/7.p标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/复习/1.HTML练习/DAY1/8.input标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/复习/1.HTML练习/DAY1/9.button标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY1/CSS/1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY1/CSS/2.选择器.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY1/CSS/3.选择器2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY1/HTML/1.css.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY1/HTML/2.选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY1/HTML/3.选择器2.css" afterDir="false" />
+    <list default="true" id="2a34e3f8-950a-4f3b-8348-cfd06f7b203d" name="Default Changelist" comment="练习DAY1">
+      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY1/HTML/3.选择器2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML练习/DAY1/1.hello_world.html" beforeDir="false" afterPath="$PROJECT_DIR$/复习/1.HTML练习/DAY1/1.hello_world.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML练习/DAY1/2.div.html" beforeDir="false" afterPath="$PROJECT_DIR$/复习/1.HTML练习/DAY1/2.div标签.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/复习/2.CSS/DAY1/CSS/3.选择器2.css" beforeDir="false" afterPath="$PROJECT_DIR$/复习/2.CSS/DAY1/CSS/3.选择器2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/复习/2.CSS/DAY1/HTML/3.选择器2.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -84,18 +68,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582341069471</updated>
-      <workItem from="1582341070859" duration="19346000" />
+      <workItem from="1582341070859" duration="20462000" />
     </task>
+    <task id="LOCAL-00001" summary="练习DAY1">
+      <created>1582363401583</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582363401583</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="练习DAY1" />
+    <option name="LAST_COMMIT_MESSAGE" value="练习DAY1" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="452" y="42" key="CommitChangelistDialog2" timestamp="1582343252715">
+    <state x="452" y="42" key="CommitChangelistDialog2" timestamp="1582363439769">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="42" key="CommitChangelistDialog2/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582343252715" />
+    <state x="452" y="42" key="CommitChangelistDialog2/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582363439769" />
+    <state x="452" y="186" key="Vcs.Push.Dialog.v2" timestamp="1582363442505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="186" key="Vcs.Push.Dialog.v2/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582363442505" />
     <state x="161" y="220" key="new project wizard" timestamp="1582341145203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

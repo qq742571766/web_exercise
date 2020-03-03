@@ -1,0 +1,10 @@
+.myDiv {
+    width: 100px;
+    height: 100px;
+    background-color: aliceblue;
+    /*border: 10px black solid;*/
+    /*border: 10px black dashed;*/
+    border-width: 30px;
+    border-color: red;
+    border-style: solid;
+}

@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.myDiv {
+    height: 100px;
+    border: 10px salmon solid;
+    line-height: 100px;
+}

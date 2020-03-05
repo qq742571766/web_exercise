@@ -1,0 +1,9 @@
+.myP1 {
+    font-style: italic;
+    /*使用斜体*/
+}
+
+.myP2 {
+    font-style: oblique;
+    /*使字体倾斜*/
+}

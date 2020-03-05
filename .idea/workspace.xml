@@ -2,20 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a34e3f8-950a-4f3b-8348-cfd06f7b203d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY1/CSS/4.margin外边距.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY1/CSS/5.padding外边距.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY1/CSS/6.块状元素与行内元素及属性拓展.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY1/CSS/7.border边框.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY1/CSS/8.font-size文字样式.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY1/CSS/9.font-weight文字粗细.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY1/HTML/4.margin外边距.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY1/HTML/5.padding外边距.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY1/HTML/6.块状元素与行内元素及属性拓展.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY1/HTML/7.border边框.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY1/HTML/8.font-size文字样式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY1/HTML/9.font-weight文字粗细.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/复习/index-search.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/复习/1.HTML练习/DAY2/1.font-family字体样式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/复习/1.HTML练习/DAY2/2.line-height行高.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/复习/1.HTML练习/DAY2/3.font-style样式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/复习/1.HTML练习/DAY2/4.font-variant样式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/复习/1.HTML练习/DAY2/5.position relative相对定位.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY2/1.font-family字体样式.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY2/2.line-height行高.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY2/3.font-style样式.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY2/4.font-variant样式.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/复习/2.CSS/DAY2/5.position relative相对定位.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/复习/index-search.vue" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -57,6 +55,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -81,7 +80,11 @@
       <updated>1582341069471</updated>
       <workItem from="1582341070859" duration="20462000" />
       <workItem from="1582800515742" duration="19000" />
-      <workItem from="1583214635091" duration="7502000" />
+      <workItem from="1583214635091" duration="8225000" />
+      <workItem from="1583282293751" duration="6986000" />
+      <workItem from="1583291967871" duration="1823000" />
+      <workItem from="1583304235046" duration="1242000" />
+      <workItem from="1583367029365" duration="1836000" />
     </task>
     <task id="LOCAL-00001" summary="练习DAY1">
       <created>1582363401583</created>
@@ -90,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582363401583</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="练习DAY2">
+      <created>1583228940542</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583228940542</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,7 +112,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="练习DAY1" />
-    <option name="LAST_COMMIT_MESSAGE" value="练习DAY1" />
+    <MESSAGE value="练习DAY2" />
+    <option name="LAST_COMMIT_MESSAGE" value="练习DAY2" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -112,19 +123,23 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="166" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582538134079" />
-    <state x="176" y="0" key="CommitChangelistDialog2" timestamp="1583228924241">
+    <state x="176" y="0" key="CommitChangelistDialog2" timestamp="1583228939719">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="176" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1583228924241" />
+    <state x="176" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1583228939719" />
     <state x="452" y="42" key="CommitChangelistDialog2/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582363439769" />
     <state x="374" y="0" key="RollbackChangesDialog" timestamp="1583215400913">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="374" y="0" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1583215400913" />
-    <state x="266" y="14" key="Vcs.Push.Dialog.v2" timestamp="1583228930057">
+    <state x="11" y="0" key="SettingsEditor" timestamp="1583291581778">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="266" y="14" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1583228930057" />
+    <state x="11" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1583291581778" />
+    <state x="266" y="14" key="Vcs.Push.Dialog.v2" timestamp="1583228943474">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="266" y="14" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1583228943474" />
     <state x="452" y="186" key="Vcs.Push.Dialog.v2/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582363442505" />
     <state x="161" y="220" key="new project wizard" timestamp="1582341145203">
       <screen x="0" y="0" width="1920" height="1040" />

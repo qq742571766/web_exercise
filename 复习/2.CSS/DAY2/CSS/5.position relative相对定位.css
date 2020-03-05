@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.myDiv {
+    width: 200px;
+    height: 200px;
+    background: red;
+    position: relative;
+    left: 20px;
+    top: 20px;
+    /*Z轴 支持负数*/
+    z-index: 2;
+}
